@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-upload-media](screens/upload-media)
 - [screen-photo-library](screens/photo-library)
 - [screen-onboarding](screens/onboarding)
+- [screen-onboarding-choose-industry](screens/onboarding-choose-industry)
 
 # Getting started: Frontend
 

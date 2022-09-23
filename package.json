@@ -17,6 +17,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/onboarding": "file:./screens/onboarding/",
+    "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/upload-media": "file:./screens/upload-media/",
     "axios": "^0.21.1",
