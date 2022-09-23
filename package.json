@@ -22,7 +22,6 @@
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/file-converter": "file:./screens/file-converter/",
     "@screens/menu-screen": "file:./screens/menu-screen/",
-    "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "axios": "^0.21.1",
