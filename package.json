@@ -23,7 +23,6 @@
     "@screens/file-converter": "file:./screens/file-converter/",
     "@screens/menu-screen": "file:./screens/menu-screen/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
-    "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
