@@ -1233,7 +1233,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/photo-library@file:./screens/photo-library/":
+"@screens/onboarding@file:./screens/onboarding/":
+  version "1.0.0"
+
+"@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 
 "@screens/upload-media@file:./screens/upload-media":

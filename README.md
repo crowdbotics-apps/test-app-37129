@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-upload-media](screens/upload-media)
 - [screen-photo-library](screens/photo-library)
+- [screen-onboarding](screens/onboarding)
 
 # Getting started: Frontend
 
