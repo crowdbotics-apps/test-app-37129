@@ -1233,7 +1233,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/file-converter@file:./screens/file-converter/":
+"@screens/file-conversion@file:./screens/file-conversion/":
+  version "1.0.0"
+
+"@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
 "@screens/image-editing@file:./screens/image-editing":

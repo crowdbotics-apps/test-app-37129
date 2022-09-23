@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-side-menu](screens/menu-screen)
 - [screen-image-editing](screens/image-editing)
 - [screen-file-format-conversion](screens/file-converter)
+- [screen-file-conversion](screens/file-conversion)
 
 # Getting started: Frontend
 
