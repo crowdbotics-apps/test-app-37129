@@ -1265,9 +1265,6 @@
 "@screens/onboarding@file:./screens/onboarding":
   version "1.0.0"
 
-"@screens/photo-library@file:./screens/photo-library":
-  version "1.0.0"
-
 "@screens/upload-media@file:./screens/upload-media":
   version "1.0.0"
 
