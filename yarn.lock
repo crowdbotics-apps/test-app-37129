@@ -1250,9 +1250,6 @@
 "@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
-"@screens/image-editing@file:./screens/image-editing":
-  version "1.0.0"
-
 "@screens/menu-screen@file:./screens/menu-screen":
   version "1.0.0"
 
