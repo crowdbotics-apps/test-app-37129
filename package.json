@@ -20,7 +20,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/blocked-users": "file:./screens/blocked-users/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
-    "@screens/file-converter": "file:./screens/file-converter/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
