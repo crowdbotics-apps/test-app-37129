@@ -16,6 +16,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/menu-screen": "file:./screens/menu-screen/",
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
