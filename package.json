@@ -25,7 +25,6 @@
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
-    "@screens/upload-media": "file:./screens/upload-media/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
