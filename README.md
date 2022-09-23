@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-onboarding-choose-industry](screens/onboarding-choose-industry)
 - [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
 - [screen-side-menu](screens/menu-screen)
+- [screen-image-editing](screens/image-editing)
 
 # Getting started: Frontend
 
