@@ -1233,7 +1233,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry/":
+"@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate/":
+  version "1.0.0"
+
+"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry":
   version "1.0.0"
 
 "@screens/onboarding@file:./screens/onboarding":
