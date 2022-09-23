@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-file-format-conversion](screens/file-converter)
 - [screen-file-conversion](screens/file-conversion)
 - [react-native-app-menu](modules/app-menu)
+- [screen-social-blocked-users](screens/blocked-users)
 
 # Getting started: Frontend
 
